@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Smart CLI Calculator Banner" />
+</p>
+
 # 🧮 Smart CLI Calculator
 
 ## 🔖 GitHub Topics
